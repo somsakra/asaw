@@ -9,7 +9,7 @@
     //     })
     // }
 
-    // same as function below
+    // the above function working as same as the function below
 
     async function simulateAsycAPI(text, timeout) {
         await new Promise((resolve, reject) => {
